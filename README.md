@@ -1,4 +1,4 @@
-## Hi there 👋
+## 兄弟们好、欢迎快来到我的github 👋
 
 <!--
 **qiurunze123/qiurunze123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
